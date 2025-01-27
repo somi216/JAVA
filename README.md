@@ -2,8 +2,9 @@
 
 > 백엔드 cs 지식
 > > 언어기본, 자료구조, 알고리즘, 네트워크, 소켓 순 진행
-> >
-> >
+
+
+> 언어기본
 > > https://youtu.be/NQq0dOoEPUM?si=7aFRFeWsPB7zoktE
 
 > > 1/20 ~1:11:30, psvm/main sout
@@ -21,3 +22,8 @@
 >> 1/26 ~7:19:23, 배열 foreach/iter
 
 >> 1/27 ~8:35:17, 완강
+
+
+> 60번 영상부터 공부
+>>https://youtube.com/playlist?list=PLuHgQVnccGMCeAy-2-llhw3nWoQKUvQck&si=HqKw3AOJImP5YSsP
+
