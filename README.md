@@ -24,6 +24,6 @@
 >> 1/27 ~8:35:17, 완강
 
 
-> file2. 60번 영상부터 공부
->>https://youtube.com/playlist?list=PLuHgQVnccGMCeAy-2-llhw3nWoQKUvQck&si=HqKw3AOJImP5YSsP
+> file2. 클래스 이후~ 파트 5~10
+>>https://school.programmers.co.kr/learn/courses/5/5-%EB%AC%B4%EB%A3%8C-%EC%9E%90%EB%B0%94-%EC%9E%85%EB%AC%B8
 
